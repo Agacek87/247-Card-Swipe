@@ -1,0 +1,41 @@
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe.config
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csprojResolveAssemblyReference.cache
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.Form1.resources
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.Properties.Resources.resources
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csproj.GenerateResource.Cache
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.pdb
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.exe
+C:\Users\Marcels\Desktop\School\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.pdb
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe.config
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.exe
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.pdb
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csprojResolveAssemblyReference.cache
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.Properties.Resources.resources
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csproj.GenerateResource.Cache
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.pdb
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe.config
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.exe
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.pdb
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.pdb
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csprojResolveAssemblyReference.cache
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.AdminForm.resources
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.Form1.resources
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.Properties.Resources.resources
+\\Mac\MARCEL\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csproj.GenerateResource.Cache
+E:\Systems Development\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.FormPunch.resources
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe.config
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe.manifest
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.application
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.exe
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\bin\Debug\LabAidPunch.pdb
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csprojResolveAssemblyReference.cache
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.FormPunch.resources
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.Properties.Resources.resources
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.csproj.GenerateResource.Cache
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.exe.manifest
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.application
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.exe
+C:\Users\Agata\Desktop\247 Group\Code\labaid\LabAidPunch\LabAidPunch\obj\Debug\LabAidPunch.pdb
